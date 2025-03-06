@@ -33,7 +33,6 @@ def main():
                 onmouseclicked(graphics.start)
                 if graphics.game_start:
                     graphics.ball.move(graphics.ball_vx, graphics.ball_vy)
-                    print(graphics.ball_vx)
                     if graphics.ball.x <= 0 or graphics.ball.x + graphics.ball.width >= graphics.window.width:
                         graphics.ball_vx = -graphics.ball_vx
                     if graphics.ball.y <= 0 or graphics.ball.y + graphics.ball.height >= graphics.window.height:
