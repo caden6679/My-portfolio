@@ -19,8 +19,8 @@ FILENAMES = [
     'data/full/baby-1980.txt', 'data/full/baby-1990.txt',
     'data/full/baby-2000.txt', 'data/full/baby-2010.txt'
 ]
-CANVAS_WIDTH = 1000
-CANVAS_HEIGHT = 600
+CANVAS_WIDTH = 1200
+CANVAS_HEIGHT = 800
 YEARS = [1900, 1910, 1920, 1930, 1940, 1950,
          1960, 1970, 1980, 1990, 2000, 2010]
 GRAPH_MARGIN_SIZE = 20

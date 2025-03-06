@@ -11,7 +11,6 @@ You should not modify any of the contents of this file.
 
 import tkinter
 
-
 # provided function to build the GUI
 def make_gui(top, width, height, names, draw_names, search_names):
     """
