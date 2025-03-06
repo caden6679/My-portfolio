@@ -1,5 +1,3 @@
-# StanCode Projects
-
 ## Greetings
 Hello there!  
 Welcome to my GitHub repository, which houses my programming projects developed during the StanCode course. These projects showcase my skills in Python programming, object-oriented design, and data processing. For more information about StanCode, please visit [StanCode](https://stancode.tw/stancode_%E5%A4%A7%E5%AE%89%E5%BA%97/).
